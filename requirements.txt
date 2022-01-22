@@ -7,4 +7,3 @@ scikit-learn
 pandas==1.2.5
 streamlit==0.86.0
 altair==4.1.0
-PIL==1.7.1
